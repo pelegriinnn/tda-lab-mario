@@ -8,3 +8,5 @@ En mi tiempo libre me gusta pasar tiempo con mi familia y amigos, también me gu
 Me gusta el fútbol, aunque tuve que dejarlo porque tuve 2 operaciones de rodilla y cada vez que juego me vuelve a doler.
 También me gustan los coches aunque últimamente no le doy mucha importancia.
 ```
+
+![Mi red](capturas/red.png).
