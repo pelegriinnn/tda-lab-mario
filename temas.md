@@ -9,4 +9,4 @@ Me gusta el fútbol, aunque tuve que dejarlo porque tuve 2 operaciones de rodill
 También me gustan los coches aunque últimamente no le doy mucha importancia.
 ```
 
-![Mi red](capturas/red.png).
+![Fútbol](capturas/images.jpg).
