@@ -22,8 +22,9 @@ También me gustan los coches aunque últimamente no le doy mucha importancia.
 La Bóveda Global de Semillas de Svalbard ha sido galardonada al premio princesa de Asturias al premio de cooperación internacional
 por ser un pilar para la ciencia y la alimentación, buscando asegurar alimentos para un futuro después de un desastre natural.
 Lo he elegido porque me parece muy importante y una gran aportación al futuro de la humanidad.
+```
 
-![Bóveda](capturas/semillas.jpg).
+![Bóveda](capturas/boveda.jfif).
 
 Imagen: Getty Images, [Traveler.es](https://www.traveler.es/experiencias/articulos/banco-mundial-de-semillas-de-svalbard-error-llamarlo-boveda-fin-del-mundo/17662)
-```
+
