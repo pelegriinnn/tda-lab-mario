@@ -13,7 +13,7 @@ También me gustan los coches aunque últimamente no le doy mucha importancia.
 
 ![Fútbol](capturas/images.jpg).
 
-He estado investigando en internet y he encontrado una web de fútbol [](https://eddwebster.com/)
+[He estado investigando en internet y he encontrado una web de fútbol](https://eddwebster.com/)
 
 
 ```
