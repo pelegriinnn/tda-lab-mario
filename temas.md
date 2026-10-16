@@ -46,5 +46,5 @@ para visibilizar y destacar los logros de las mujeres en la ciencia, la
 tecnología, la ingeniería y las matemáticas (STEM), sirviendo como inspiración 
 para las nuevas generaciones.
 
-![Ada Lovelace](capturas/Ada.jpg){: width="300"}
+![Ada Lovelace](capturas/Ada.jpg){:width="300"}
 
