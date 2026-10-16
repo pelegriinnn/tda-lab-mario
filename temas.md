@@ -47,4 +47,4 @@ tecnología, la ingeniería y las matemáticas (STEM), sirviendo como inspiraci�
 para las nuevas generaciones.
 
 ![Ada Lovelace](capturas/Ada.jpg){:width="300"}
-
+Imagen: Carpenter Portrait, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Ada_Lovelace#/media/File:Ada_Lovelace_portrait_circa_1840)
