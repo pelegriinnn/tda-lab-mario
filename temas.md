@@ -45,3 +45,6 @@ se celebra el Día de Ada Lovelace, una fecha internacional instituida en 2009
 para visibilizar y destacar los logros de las mujeres en la ciencia, la 
 tecnología, la ingeniería y las matemáticas (STEM), sirviendo como inspiración 
 para las nuevas generaciones.
+
+![Ada Lovelace](capturas/Ada.jpg){: width="300"}
+
