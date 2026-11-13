@@ -20,7 +20,7 @@
 
 - **Aplicación:** GitHub
 - **Entregado:** Enlace a la entrada de GitHub
-- **Qué hice:** Una entrada sobre los premios princesa
+- **Qué hice:** Una entrada sobre los premios princesa y la Bóveda de Semillas de Noruega.
 
 ---
 
